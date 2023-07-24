@@ -1,22 +1,5 @@
-## mern stack project for beginners
+##  Building a Simple Task Management System
 
-**Youtube Tutorial: [https://youtu.be/7s7RHc_8SaU][yt-link]**
-
-**Made with ❤️ by [Shaif Arfan][arfan-ig]**
-.
-
-Like my works and want to support me? <br>
-you can buy me a coffee 👇
-
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
-
----
-
-## Project Details
-
-This project is for beginners only. In this project we are going to create a task management app (todo app). Where user create register an account with name, email, password. Inside the app user can create tasks, check tasks and delete tasks. Beside that user can update their own profile.
-
-It is a simple app. In the project we didn't focus on styles, so the ui is simple.
 
 ## What we are going to learn/use
 
